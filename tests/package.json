@@ -5,7 +5,7 @@
     "cypress:run:chrome:canvas3d": "cypress run --headed --browser chrome --env coverage=false --config-file cypress_canvas3d.json"
   },
   "dependencies": {
-    "@cypress/code-coverage": "^3.9.10",
+    "@cypress/code-coverage": "^3.9.12",
     "archiver": "^5.3.0",
     "cy-verify-downloads": "^0.0.5",
     "cypress": "^8.3.1",
